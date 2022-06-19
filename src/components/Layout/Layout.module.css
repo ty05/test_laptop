@@ -1,0 +1,31 @@
+.container {
+    display: block;
+    justify-content: center;
+    align-items: center;
+    height: 40vh;
+}
+
+
+.main {
+    display: block;
+}
+
+.footer {
+    display: flex;
+    flex: 1;
+    padding: 2rem 0;
+    border-top: 1px solid #eaeaea;
+    justify-content: center;
+    align-items: center;
+    min-height:50px; 
+    background:rgb(213, 242, 255); 
+    margin-bottom: 0%;
+  }
+  
+  .footer a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-grow: 1;
+    
+  }
